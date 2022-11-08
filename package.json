@@ -1,0 +1,17 @@
+{
+  "name": "omegle-calculator-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "calculate-string": "^2.0.2",
+    "omegle.js": "^0.0.11"
+  },
+  "type": "module"
+}
